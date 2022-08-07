@@ -29,7 +29,7 @@ QQ互联，基于官方sdk包修改与封装，另许多框架都对session操�
 ```
 
 ```$xslt
-use jonexyz\QQConnect\QC;
+use Jonexyz\QQConnect\QC;
 
     // qq登录
     public function qq()
@@ -40,7 +40,7 @@ use jonexyz\QQConnect\QC;
 ```
 
 ```$xslt
-use jonexyz\QQConnect\QC;
+use Jonexyz\QQConnect\QC;
 
 // 回调操作
     public function qqCallback(Request $request)
