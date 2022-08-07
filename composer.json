@@ -1,0 +1,16 @@
+{
+    "name": "jonexyz/QQConnect",
+    "description": "QQ互联SDK 2.1版本",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jone",
+            "email": "abc@jone.xyz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jonexyz\\QQConnect\\": "src"
+        }
+    }
+}
