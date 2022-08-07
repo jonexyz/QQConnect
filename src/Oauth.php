@@ -5,7 +5,7 @@
  * @copyright © 2013, Tencent Corporation. All rights reserved.
  */
 
-namespace jonexyz\QQConnect;
+namespace Jonexyz\QQConnect;
 
 class Oauth {
 

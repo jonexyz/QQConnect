@@ -29,6 +29,8 @@ QQ互联，基于官方sdk包修改与封装，另许多框架都对session操�
 ```
 
 ```$xslt
+use jonexyz\QQConnect\QC;
+
     // qq登录
     public function qq()
     {
@@ -38,6 +40,8 @@ QQ互联，基于官方sdk包修改与封装，另许多框架都对session操�
 ```
 
 ```$xslt
+use jonexyz\QQConnect\QC;
+
 // 回调操作
     public function qqCallback(Request $request)
     {
